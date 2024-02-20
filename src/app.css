@@ -81,9 +81,15 @@ button:focus-visible {
     }
 }
 
-img{
+.image{
     display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+@media (max-width: 400px){
+    h1{
+        text-align: center;
+    }
 }
