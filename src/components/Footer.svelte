@@ -4,9 +4,9 @@
     >
         <div class="flex flex-col gap-4 md:col-span-2">
             <h1 class="font-semibold">
-                AyurCure <span class="text-green-400">Wellness</span>
+                AyuCure <span class="text-green-400">Wellness</span>
             </h1>
-            <p>©2023 AyurCure Wellness  <br>All rights reserved.</p>
+            <p>©2023 AyuCure Wellness  <br>All rights reserved.</p>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>
