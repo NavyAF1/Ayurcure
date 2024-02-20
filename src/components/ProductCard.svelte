@@ -13,7 +13,7 @@
         >
             <slot />
         </h4>
-        <p>{productFeature.description}</p>
+        {productFeature.description}
         <div class="flex flex-col gap-3">
             {#each productFeature.featureList as listItem}
                 <div class="flex gap-2 items-center">
@@ -23,9 +23,6 @@
             {/each}
         </div>
         <div class="flex items-center">
-            <button class="specialBtnDark mr-auto font-semibold">
-                <p>Try free today &rarr;</p>
-            </button>
         </div>
     </div>
     <div
