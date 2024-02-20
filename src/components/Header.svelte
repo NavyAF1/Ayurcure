@@ -7,7 +7,7 @@
     >
         <a href="/">
             <h1 class="font-semibold">
-                AyurCure <span class="text-green-400">Wellness</span>
+                AyuCure <span class="text-green-400">Wellness</span>
             </h1>
         </a>
         <button
