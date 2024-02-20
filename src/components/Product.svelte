@@ -9,38 +9,30 @@
                 "Ayurveda aims to prevent and alleviate diseases, promoting health and happiness for individuals and society. "
             ],
             description:
-                "Swoley moley ensures all users have the information they need to train safely and train effectively. Ayurveda empowers individuals to take control of their health.",
+                "",
                 imgUrl: "assets/realayurveda.png",
         },
         {
             featureList: [
-                "Select your preferences",
-                "Personalize your workouts",
-                "Customize your training",
-                "Guarantees progress on all core exercises",
+                "Holistic medicine, based on tradition, emphasizes the importance of food as a first medicine and the kitchen as a pharmacy. Ayurvedic medicine focuses on the body's natural strength, allowing it to heal naturally. Herbal medicine supplements treat symptoms and aids in unwinding disease processes, freeing the body from the root cause of aggravating symptoms. Foods and spices are recommended for therapeutic use, providing subtle nutrition and stimulating deeper tissues and organs.",
             ],
             description:
-                "Build you streaks and see your progress with our amazing tracking and analytics features.",
+                "",
                 imgUrl: "assets/herbs.png",
         },
         {
             featureList: [
-                "Eliminating guesswork",
-                "Save time",
-                "Achieve the performance you seek",
-                "Builds functional strength",
+                "Lifestyle disorders can be caused by unhealthy habits, inactivity, and a disturbed biological clock. Ayurveda emphasizes health as a radiant state of vigor and energy achieved through balance in daily activities. Seasonal and weather changes significantly impact the body, so adaptations to diet and lifestyle are crucial. Epigenetics supports this Ayurvedic principle.",
             ],
             description:
-                "Enter as much information about yourself as you desire to ensure all workouts are personalized to your every need.",
+                "",
                 imgUrl: "assets/lifestyle.png",
         },{
             featureList: [
-                "Ayurveda, the oldest recorded healing science, focuses on longevity, contentment, and well-balanced life. It acknowledges individuality and uses a holistic approach to assess health conditions, harmonising physical and mental balance.",
-                " It uses natural interventions to prevent, heal, and manage acute and chronic health conditions without side effects. Common conditions include insomnia, skin conditions, stress, headaches, migraines, weight management, autoimmune disease, respiratory conditions, compromised immune systems, arthritis, and gastro-intestinal problems.",
-                "Ayurveda aims to prevent and alleviate diseases, promoting health and happiness for individuals and society. "
+                "Lifestyle disorders can be caused by unhealthy habits, inactivity, and a disturbed biological clock. Ayurveda emphasizes health as a radiant state of vigor and energy achieved through balance in daily activities. Seasonal and weather changes significantly impact the body, so adaptations to diet and lifestyle are crucial. Epigenetics supports this Ayurvedic principle. "
             ],
             description:
-                "Swoley moley ensures all users have the information they need to train safely and train effectively. Ayurveda empowers individuals to take control of their health.",
+                "",
                 imgUrl: "assets/realmeditate.png",
         },{
             featureList: [
@@ -49,7 +41,7 @@
                 "Ayurveda aims to prevent and alleviate diseases, promoting health and happiness for individuals and society. "
             ],
             description:
-                "Swoley moley ensures all users have the information they need to train safely and train effectively. Ayurveda empowers individuals to take control of their health.",
+                "",
                 imgUrl: "assets/realmeditate.png", /* place holder */
         },
     ];
