@@ -1,5 +1,4 @@
 <script>
-    import CtAs from "./CTAs.svelte";
     import Header from "./Header.svelte";
     import SectionWrapper from "./SectionWrapper.svelte";
     import Stars from "./Stars.svelte";
@@ -24,7 +23,6 @@
         Maintaining this balance prevents illness, heal acute conditions, and contributes to a long and healthy life. <span class="italic">
             </span>
         </p>
-        <CtAs />
        <Stars/>
     </div>
 </SectionWrapper>
