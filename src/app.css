@@ -93,3 +93,7 @@ button:focus-visible {
         text-align: center;
     }
 }
+
+footer{
+    background-color: white;
+}
