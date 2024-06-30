@@ -1,6 +1,5 @@
 <script>
   import "../app.css";
-  import CtAs from "../components/CTAs.svelte";
   import Footer from "../components/Footer.svelte";
   import Header from "../components/Header.svelte";
 
@@ -63,7 +62,6 @@
           </button>
       </div>
       <div class="flex flex-col items-center justify-center">
-          <CtAs />
       </div>
   </div>
 {/if}
